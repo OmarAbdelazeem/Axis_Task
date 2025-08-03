@@ -7,7 +7,7 @@ A modern, production-ready Flutter application that showcases popular people fro
 ### 🎥 Video Showcase
 
 <!-- App Demo Video -->
-https://github.com/user-attachments/assets/IMDB.webm
+https://github.com/OmarAbdelazeem/Axis_Task/blob/main/output.webm
 
 *📱 Watch the app in action - showcasing popular people browsing, detailed views, and image galleries*
 
@@ -17,19 +17,39 @@ https://github.com/user-attachments/assets/IMDB.webm
   <table>
     <tr>
       <td align="center">
-        <img src="assets/screenshots/people_list.png" alt="People List" width="200"/>
+        <img src="assets/screenshots/1.png" alt="App Home Screen" width="200"/>
+        <br/>
+        <sub><b>Home Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/2.png" alt="Popular People List" width="200"/>
         <br/>
         <sub><b>Popular People List</b></sub>
       </td>
       <td align="center">
-        <img src="assets/screenshots/person_details.png" alt="Person Details" width="200"/>
+        <img src="assets/screenshots/3.png" alt="Person Details" width="200"/>
         <br/>
         <sub><b>Person Details</b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center">
-        <img src="assets/screenshots/image_gallery.png" alt="Image Gallery" width="200"/>
+        <img src="assets/screenshots/4.png" alt="Image Gallery" width="200"/>
         <br/>
         <sub><b>Image Gallery</b></sub>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/5.png" alt="Image Viewer" width="200"/>
+        <br/>
+        <sub><b>Image Viewer</b></sub>
+      </td>
+      <td align="center">
+        <!-- Placeholder for future screenshot -->
+        <div style="width: 200px; height: 300px; background: #f0f0f0; display: flex; align-items: center; justify-content: center; border-radius: 8px;">
+          <span style="color: #666;">More Features</span>
+        </div>
+        <br/>
+        <sub><b>More Features</b></sub>
       </td>
     </tr>
   </table>
