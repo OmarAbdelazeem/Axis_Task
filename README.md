@@ -17,29 +17,29 @@ https://github.com/OmarAbdelazeem/Axis_Task/blob/main/output.webm
   <table>
     <tr>
       <td align="center">
-        <img src="assets/screenshots/1.png" alt="App Home Screen" width="200"/>
+        <img src="assets/screenshots/home_screen.png" alt="App Home Screen" width="200"/>
         <br/>
         <sub><b>Home Screen</b></sub>
       </td>
       <td align="center">
-        <img src="assets/screenshots/2.png" alt="Popular People List" width="200"/>
+        <img src="assets/screenshots/people_list.png" alt="Popular People List" width="200"/>
         <br/>
         <sub><b>Popular People List</b></sub>
       </td>
       <td align="center">
-        <img src="assets/screenshots/3.png" alt="Person Details" width="200"/>
+        <img src="assets/screenshots/person_details.png" alt="Person Details" width="200"/>
         <br/>
         <sub><b>Person Details</b></sub>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="assets/screenshots/4.png" alt="Image Gallery" width="200"/>
+        <img src="assets/screenshots/image_viewer.png" alt="Image Gallery" width="200"/>
         <br/>
         <sub><b>Image Gallery</b></sub>
       </td>
       <td align="center">
-        <img src="assets/screenshots/5.png" alt="Image Viewer" width="200"/>
+        <img src="assets/screenshots/image_gallery.png" alt="Image Viewer" width="200"/>
         <br/>
         <sub><b>Image Viewer</b></sub>
       </td>
